@@ -57,3 +57,7 @@ You can find sample output files in the `sample_output` directory. Here are some
 -  pronunciation=main apane baig ka intazaar kar raha tha.,
 - ...
 
+## 🚀 About Me
+My name is Thomas George Kayyalath
+I'm a Data Scientist.
+Linkedin Profile -www.linkedin.com/in/thomas-george-54993213a
