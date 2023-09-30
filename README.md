@@ -2,9 +2,13 @@ Translator Project
 
 
 This project demonstrates how to use the `googletrans` library to perform translations in Python.
+Create Hinglish translations for the 3 highlighted English text statements that are given in the PDF above. Make sure that the model is able to translate any given English statement into Hinglish.
 
+Google Drive Link
+https://drive.google.com/file/d/1LAcQewB-sFRuuNe2YJXlHvuLQSOJ9i46/view?usp=sharing
 
-
+Read.me
+https://drive.google.com/file/d/1vHbbuQXdynzJrUQ3nYKVYvJMFgwuaCv7/view?usp=drive_link
 
 ## Requirement
 
@@ -21,11 +25,7 @@ This project demonstrates how to use the `googletrans` library to perform transl
    git clone [https://github.com/ThomasGeorgeGit/Hinglish-Translation-Project.git]
 
 
-   
-
-`
 ```
- 
 ## Installation
 
 Install the required library:
