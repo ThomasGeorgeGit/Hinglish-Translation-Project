@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1vHbbuQXdynzJrUQ3nYKVYvJMFgwuaCv7/view?usp=drive
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/ThomasGeorgeGit/Hinglish-Translation-Project.git]
+   git clone [gh repo clone ThomasGeorgeGit/Hinglish-Translation-Project]
 
 
 ```
