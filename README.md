@@ -19,6 +19,8 @@ This project demonstrates how to use the `googletrans` library to perform transl
 
    ```bash
    git clone [https://github.com/ThomasGeorgeGit/Hinglish-Translation-Project.git]
+
+
    
 
 `
