@@ -39,3 +39,17 @@ This will translate the text to Hindi and print the result.
 
 ```
 
+
+## Sample Output
+
+You can find sample output files in the `sample_output` directory. Here are some examples:
+
+- [Sample Output 1 (Definitely share your feedback in the comment section)](Translated(src=en, dest=hi, text=अपना फीडबैक कमेंट सेक्शन में जरूर साझा करें.,
+- pronunciation=apana pheedabaik kament sekshan mein jaroor saajha karen.,
+
+- [Sample Output 2 (So even if it's a big video, I will clearly mention all the products)](text=इसलिए भले ही यह एक बड़ा वीडियो हो, मैं स्पष्ट रूप से सभी उत्पादों का उल्लेख करूंगा।, pronunciation=isalie bhale hee yah ek bada veediyo ho, main spasht roop se sabhee utpaadon ka ullekh karoonga.)
+-
+- [Sample Output 3(I was waiting for my bag)] text=मैं अपने बैग का इंतज़ार कर रहा था.,
+-  pronunciation=main apane baig ka intazaar kar raha tha.,
+- ...
+
