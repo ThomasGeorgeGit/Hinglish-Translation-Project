@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1vHbbuQXdynzJrUQ3nYKVYvJMFgwuaCv7/view?usp=drive
 ## Requirement
 
 - Python 3.x
-- `googletrans` library (install using `pip install googletrans==4.0.0-rc1`)
+- `googletrans` library (install using `pip install googletrans==3.1.0a0`)
 
 
 ## 
